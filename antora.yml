@@ -1,4 +1,10 @@
-name: Antora docs
+name: ChRISDocs
 title: Antora docs
 version: 0.0.1
 start_page: ROOT:README.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
