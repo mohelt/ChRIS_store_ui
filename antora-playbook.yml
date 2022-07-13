@@ -1,10 +1,10 @@
 site:
   title: Antora Docs
-  start_page: README.adoc
+  start_page: ChRISDocs::README.adoc
 content:
   sources:
   - url: https://github.com/Mfonn/ChRIS_store_ui.git
-    branches: Antora
+    branches: antora
 
 ui:
   bundle:

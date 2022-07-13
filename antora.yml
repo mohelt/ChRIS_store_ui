@@ -1,0 +1,4 @@
+name: Antora docs
+title: Antora docs
+version: 0.0.1
+start_page: ROOT:README.adoc
