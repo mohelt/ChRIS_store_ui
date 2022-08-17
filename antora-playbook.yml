@@ -8,5 +8,5 @@ content:
 
 ui:
   bundle:
-    url: /home/mohamedeltayeb/ChRIS_store_ui/uiChRIS
+    url: ./uiChRIS
     snapshot: true
